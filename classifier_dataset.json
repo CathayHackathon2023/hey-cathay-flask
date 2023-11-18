@@ -1,0 +1,58 @@
+[
+    {
+        "input_text": "I want to book a flight from Hong Kong to Dubai on 6th of January",
+        "output_text": "Category:Book, Origin:Hong Kong, Destination:Dubai, Date:6th of January, Type:Book"
+    },
+    {
+        "input_text": "I want to know if there is a flight on Dubai",
+        "output_text": "Category:Flights, Origin:, Destination:Dubai, Date:, type:Information"
+    },
+    {
+        "input_text": "What flights are there on 6th of January ",
+        "output_text": "Category:Flights, Origin:, Destination:, Date:6th of January, Type:Information"
+    },
+    {
+        "input_text": "Where can I see my flights",
+        "output_text": "Category:Flights, Type:MyInformation"
+    },
+    {
+        "input_text": "Where can I change my information",
+        "output_text": "Category:UserInfo"
+    },
+    {
+        "input_text": "How to update my gender?",
+        "output_text": "Category:UserInfo"
+    },
+    {
+        "input_text": "Can I change my gender",
+        "output_text": "Category:UserInfo"
+    },
+    {
+        "input_text": "How to see my information",
+        "output_text": "Category:UserInfo"
+    },
+    {
+        "input_text": "I want to see where the toilet is in Hong Kong Airport",
+        "output_text": "Category:Map, destination:toilet"
+    },
+    {
+        "input_text": "Where is my gate?",
+        "output_text": "Category:Map, destination:Gate"
+    },
+    {
+        "input_text": "I want to go from manila airport to Amsterdam",
+        "output_text": "Category:Book, Origin:Manila Airport, Destination:Amsterdam airport, Date:"
+    },
+    {
+        "input_text": "I want to book a hotel in amsterdam",
+        "output_text": "Category:Hotels, Location:Amsterdam, Date:"
+    },
+    {
+        "input_text": "I want to see hotels in wan chai area, Hong Kong",
+        "output_text": "Category:Hotels, Location:Wan Chai, Hong Kong, Date:"
+    },
+    {
+        "input_text": "Where can I stay the night in San Francisco",
+        "output_text": "Category:Hotels, Location:San Francisco, Date:Today"
+    }
+]

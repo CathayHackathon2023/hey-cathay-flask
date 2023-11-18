@@ -1,0 +1,60 @@
+{"input_text":"Where is the nearest gas station?","output_text":"Map"}
+{"input_text":"Show me a map of downtown Los Angeles.","output_text":"Map"}
+{"input_text":"Is my flight to New York on time?","output_text":"Flight"}
+{"input_text":"What is the gate number for my flight to Tokyo?","output_text":"Flight"}
+{"input_text":"Can you recommend a good Italian restaurant nearby?","output_text":"Food"}
+{"input_text":"What are the top-rated vegan eateries in this city?","output_text":"Food"}
+{"input_text":"I need a hotel room in Paris for next weekend.","output_text":"Hotel"}
+{"input_text":"Are there any budget hotels near the beach?","output_text":"Hotel"}
+{"input_text":"How do I update my contact information?","output_text":"UserInfo"}
+{"input_text":"Where can I change my account password?","output_text":"UserInfo"}
+{"input_text":"Show me flights from Boston to Chicago tomorrow.","output_text":"Flights"}
+{"input_text":"I need to book a round trip from Berlin to Madrid.","output_text":"Flights"}
+{"input_text":"Show me directions to the nearest airport.","output_text":"Map"}
+{"input_text":"How do I get to the Golden Gate Bridge from my location?","output_text":"Map"}
+{"input_text":"What's the status of Delta flight 302?","output_text":"Flight"}
+{"input_text":"Do I have an aisle seat on my flight to Amsterdam?","output_text":"Flight"}
+{"input_text":"Find sushi restaurants in my area.","output_text":"Food"}
+{"input_text":"List top-rated bakeries in New York City.","output_text":"Food"}
+{"input_text":"Are there any 5-star hotels in downtown Chicago?","output_text":"Hotel"}
+{"input_text":"Find a pet-friendly hotel in Toronto.","output_text":"Hotel"}
+{"input_text":"How can I update my email address in my profile?","output_text":"UserInfo"}
+{"input_text":"Where can I check my reward points balance?","output_text":"UserInfo"}
+{"input_text":"Find the cheapest flight to Miami for this weekend.","output_text":"Flights"}
+{"input_text":"What are the available flights to London on July 5th?","output_text":"Flights"}
+{"input_text":"Directions to the closest subway station?","output_text":"Map"}
+{"input_text":"How far is the Eiffel Tower from my current location?","output_text":"Map"}
+{"input_text":"Check the arrival time for flight BA215 to London.","output_text":"Flight"}
+{"input_text":"Do I have access to the lounge on my flight to Dubai?","output_text":"Flight"}
+{"input_text":"What are some popular seafood places in San Francisco?","output_text":"Food"}
+{"input_text":"Where can I find a good French bistro in this area?","output_text":"Food"}
+{"input_text":"Suggest family-friendly hotels in Orlando.","output_text":"Hotel"}
+{"input_text":"List luxury resorts in the Maldives.","output_text":"Hotel"}
+{"input_text":"How do I link my phone number to my profile?","output_text":"UserInfo"}
+{"input_text":"Where can I find my previous booking history?","output_text":"UserInfo"}
+{"input_text":"Search for flights from Los Angeles to Tokyo next month.","output_text":"Flights"}
+{"input_text":"I'm looking for return flights to Sydney for Christmas.","output_text":"Flights"}
+{"input_text":"What's the quickest route to Central Park from here?","output_text":"Map"}
+{"input_text":"Find me a walking path to the nearest coffee shop.","output_text":"Map"}
+{"input_text":"Has the flight from Chicago to Boston been canceled today?","output_text":"Flight"}
+{"input_text":"What is the luggage allowance for my international flight?","output_text":"Flight"}
+{"input_text":"List the best-rated Mexican restaurants in Dallas.","output_text":"Food"}
+{"input_text":"Where can I get authentic Japanese ramen in this city?","output_text":"Food"}
+{"input_text":"Find me a hotel with a gym and spa in Atlanta.","output_text":"Hotel"}
+{"input_text":"Are there any boutique hotels in downtown Seattle?","output_text":"Hotel"}
+{"input_text":"How do I subscribe to your newsletter?","output_text":"UserInfo"}
+{"input_text":"Can I change my username on the app?","output_text":"UserInfo"}
+{"input_text":"Compare flight prices from Miami to London for next week.","output_text":"Flights"}
+{"input_text":"Are there any direct flights from New York to Rome?","output_text":"Flights"}
+{"input_text":"Navigate to the nearest shopping mall.","output_text":"Map"}
+{"input_text":"How do I get to the nearest beach from here?","output_text":"Map"}
+{"input_text":"Is there an earlier flight to San Diego today?","output_text":"Flight"}
+{"input_text":"Can I request a window seat for my flight to Vancouver?","output_text":"Flight"}
+{"input_text":"Suggest a good pizza place in downtown Chicago.","output_text":"Food"}
+{"input_text":"Where can I find the best gelato in Rome?","output_text":"Food"}
+{"input_text":"Find a hotel close to Times Square with free parking.","output_text":"Hotel"}
+{"input_text":"Are there any eco-friendly hotels in Bali?","output_text":"Hotel"}
+{"input_text":"How do I add my frequent flyer number to my account?","output_text":"UserInfo"}
+{"input_text":"Where can I update my billing address?","output_text":"UserInfo"}
+{"input_text":"What flights are available from London to Cairo tomorrow evening?","output_text":"Flights"}
+{"input_text":"Show me the cheapest flights to Tokyo for the upcoming holiday.","output_text":"Flights"}
